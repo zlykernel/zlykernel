@@ -1,6 +1,7 @@
-我的github主页
+
 <!-- 动态打字效果 -->
 <h1 align="center">
+我的github主页
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&color=7E75F7&lines=Welcome+To+My+GitHub" alt="Typing SVG" /></a>
 </h1>
 
